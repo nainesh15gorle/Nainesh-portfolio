@@ -1,98 +1,38 @@
-Nainesh Portfolio Website
+Hi, I’m Nainesh 👋
 
-A modern, responsive personal portfolio website showcasing my skills, projects, and professional profile as a Computer Science & Engineering student with interests in Web Development and emerging technologies.
+🎓 CSE Student | 💻 Web Developer | 🚀 Full-Stack Learner
+📍 Visakhapatnam, Andhra Pradesh, India
 
-🌐 Live Website: https://naineshportsite.vercel.app
+I’m a curious and disciplined developer who enjoys building clean, practical web experiences. I’m constantly learning, experimenting, and improving—especially in Web Development, UI/UX, and emerging technologies.
 
-Overview
+🌐 Portfolio: https://naineshportsite.vercel.app
 
-This portfolio serves as a central hub to present:
-
-My technical skill set
-
-Academic and personal projects
-
-Areas of interest and ongoing learning
-
-Professional contact information
-
-The website is designed to be minimal, fast, and accessible across devices, reflecting both technical competence and design clarity.
-
-Features
-
-Responsive Design – Optimized for desktop, tablet, and mobile
-
-Clean UI/UX – Simple, professional layout with clear navigation
-
-About Section – Background, interests, and goals
-
-Skills Section – Technologies and tools I work with
-
-Projects Showcase – Highlights of selected projects
-
-Contact Section – Easy ways to connect professionally
-
-Fast Deployment – Hosted on Vercel for performance and reliability
-
-Tech Stack
+🛠 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
+Currently Learning: Full-Stack Development, DSA, AI/ML
+Tools: Git, GitHub, Vercel
 
-Framework / Library: (Add here if applicable – React / Next.js / Tailwind CSS, etc.)
+📂 Projects
 
-Hosting & Deployment: Vercel
+Personal Portfolio Website – A responsive portfolio showcasing my skills, projects, and interests
 
-Version Control: Git & GitHub
+More projects coming as I continue building and learning
 
+🎯 Interests
 
+Web Development & UI/UX
 
-(Structure may vary slightly based on framework used.)
+Prompt Engineering
 
-Getting Started
+AI / ML fundamentals
 
-To run this project locally:
+Data Structures & Algorithms
 
-1. Clone the repository
-git clone https://github.com/<your-username>/<repository-name>.git
+📫 Let’s Connect
 
-2. Navigate to the project directory
-cd <repository-name>
+🌐 Portfolio: https://naineshportsite.vercel.app
 
-3. Install dependencies
-npm install
+💼 GitHub: https://github.com/nainesh15gorle
 
-4. Start the development server
-npm run dev
-
-
-Open your browser and visit:
-
-http://localhost:3000
-
-Deployment
-
-The project is deployed using Vercel, enabling:
-
-Automatic builds on every GitHub push
-
-Fast global CDN delivery
-
-Easy rollback and preview deployments
-
-To deploy your own version:
-
-Fork or clone the repository
-
-Connect it to Vercel
-
-Deploy with default settings
-
-Future Enhancements
-
-Add a blog or learning logs section
-
-Integrate animations for better engagement
-
-Improve SEO and accessibility
-
-Add downloadable resume support
+⭐ Always learning. Always building. Always improving.
