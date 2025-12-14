@@ -1,73 +1,98 @@
-# Welcome to your Lovable project
+Nainesh Portfolio Website
 
-## Project info
+A modern, responsive personal portfolio website showcasing my skills, projects, and professional profile as a Computer Science & Engineering student with interests in Web Development and emerging technologies.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🌐 Live Website: https://naineshportsite.vercel.app
 
-## How can I edit this code?
+Overview
 
-There are several ways of editing your application.
+This portfolio serves as a central hub to present:
 
-**Use Lovable**
+My technical skill set
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Academic and personal projects
 
-Changes made via Lovable will be committed automatically to this repo.
+Areas of interest and ongoing learning
 
-**Use your preferred IDE**
+Professional contact information
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+The website is designed to be minimal, fast, and accessible across devices, reflecting both technical competence and design clarity.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Features
 
-Follow these steps:
+Responsive Design – Optimized for desktop, tablet, and mobile
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Clean UI/UX – Simple, professional layout with clear navigation
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+About Section – Background, interests, and goals
 
-# Step 3: Install the necessary dependencies.
-npm i
+Skills Section – Technologies and tools I work with
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Projects Showcase – Highlights of selected projects
+
+Contact Section – Easy ways to connect professionally
+
+Fast Deployment – Hosted on Vercel for performance and reliability
+
+Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Framework / Library: (Add here if applicable – React / Next.js / Tailwind CSS, etc.)
+
+Hosting & Deployment: Vercel
+
+Version Control: Git & GitHub
+
+
+
+(Structure may vary slightly based on framework used.)
+
+Getting Started
+
+To run this project locally:
+
+1. Clone the repository
+git clone https://github.com/<your-username>/<repository-name>.git
+
+2. Navigate to the project directory
+cd <repository-name>
+
+3. Install dependencies
+npm install
+
+4. Start the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Open your browser and visit:
 
-**Use GitHub Codespaces**
+http://localhost:3000
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Deployment
 
-## What technologies are used for this project?
+The project is deployed using Vercel, enabling:
 
-This project is built with:
+Automatic builds on every GitHub push
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Fast global CDN delivery
 
-## How can I deploy this project?
+Easy rollback and preview deployments
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+To deploy your own version:
 
-## Can I connect a custom domain to my Lovable project?
+Fork or clone the repository
 
-Yes, you can!
+Connect it to Vercel
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Deploy with default settings
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Future Enhancements
+
+Add a blog or learning logs section
+
+Integrate animations for better engagement
+
+Improve SEO and accessibility
+
+Add downloadable resume support
